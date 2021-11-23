@@ -1,0 +1,65 @@
+/*singer style*/
+.singer {
+  width: 300px;
+  text-align: left;
+  padding: 0px;
+  margin-top: 25px;
+  margin-bottom: 40px;
+}
+
+/*card style*/
+.card {
+  padding: 10px;
+  height: 530px;
+}
+
+/*card style when hover*/
+.card:hover {
+  background-color: rgb(235, 234, 234);
+  box-shadow: 3px 3px 3px 1px rgb(224, 100, 224);
+}
+
+/* singer image style*/
+img {
+  height: 200px;
+  width: 200px;
+  clip-path: circle();
+  transition: transform 1s;
+  transition-timing-function: ease-out;
+}
+
+/*singer image style when hover*/
+img:hover {
+  cursor: pointer;
+  transform: rotate(360deg);
+}
+
+/*customized text color*/
+.text-color {
+  color: darkmagenta;
+}
+
+/*card bottom style*/
+.card-bottom {
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 0px;
+}
+
+/*add to concert button style*/
+.btn-regular {
+  background-color: rgb(80, 5, 80);
+  color: white;
+  width: 200px;
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/*button style when hover*/
+.btn-regular:hover {
+  background-color: rgb(197, 102, 197);
+  color: black;
+  border: 1px solid darkmagenta;
+}

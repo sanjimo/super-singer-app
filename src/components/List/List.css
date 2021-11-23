@@ -1,0 +1,10 @@
+/*cart list container style*/
+.list-container {
+  padding: 5px;
+  text-align: center;
+}
+
+/*card list heading style*/
+.list-heading {
+  color: darkmagenta;
+}

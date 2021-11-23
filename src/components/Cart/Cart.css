@@ -1,0 +1,16 @@
+.cart {
+  text-align: left;
+  font-size: 20px;
+  font-weight: regular;
+}
+
+.cart-text {
+  color: darkmagenta;
+}
+
+.cart-title {
+  text-align: center;
+  color: rgb(105, 9, 105);
+  text-shadow: -1px 0 rgb(196, 192, 192), 0 2px rgb(226, 214, 214), 2px 0 rgb(218, 215, 215), 0 -1px rgb(224, 217, 217);
+  padding: 10px;
+}

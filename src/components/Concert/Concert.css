@@ -1,0 +1,24 @@
+/*concert-container style*/
+.concert-container {
+  background-color: rgb(250, 244, 231);
+  margin-top: 0px;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+/* singer-container style*/
+.singer-container {
+  margin-left:25px;
+  margin-right:15px;
+  margin-bottom: 10px;
+  border-right: 1px solid lightgray;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+
+}
+
+/*cart-container style*/
+.cart-container {
+  margin: 10px;
+  text-align: left;
+}
