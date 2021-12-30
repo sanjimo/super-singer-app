@@ -1,6 +1,6 @@
 # Super Singer Concert
 
-Live Site Link   https://super-singer-concert.netlify.app
+Live Site Link [Super Singer Concert](https://super-singer-concert.netlify.app)
 
 1. A Simple Page Application that provides information of several Musicians.
 2. Singers can be selected for Concert which appears in UI instantly.
